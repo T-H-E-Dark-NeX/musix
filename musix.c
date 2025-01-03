@@ -8,7 +8,7 @@
 
 // display progress bar
 void displayProgressBar(int position, int total) {
-    int filled = (position * PROGRESS_BAR_LENGTH) / stotal;
+    int filled = (position * PROGRESS_BAR_LENGTH) / total;
       printf("\r#");
     for (int i = 0; i < PROGRESS_BAR_LENGTH; i++) {
         if (i < filled)
