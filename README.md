@@ -1,2 +1,2 @@
 # musix
-Minimal audio player with support for .mp3 and .wav written in c !
+Minimal audio player with support for  .wav written in c !
